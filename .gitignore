@@ -1,0 +1,11 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# vim
+*.swp
+
+#
+.DS_Store
+
